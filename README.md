@@ -1,4 +1,4 @@
-# Real-time PPE Detection & Open Dataset ([Open Access paper link](https://www.mdpi.com/1424-8220/21/10/3478))
+# Real-time PPE Detection & Open Dataset Using Yolov7 ([Open Access paper link](https://www.mdpi.com/1424-8220/21/10/3478))
 
 ![avatar](figures/ppe_sample.gif)
 
@@ -23,32 +23,14 @@ Instead of just accepting exiting images, strict criteria are designed at the be
 The dataset is open for free use, please download at [Google Drive](https://drive.google.com/file/d/1fdGn67W0B7ShpBDbbQpUF0ScPQa4DR0a/view?usp=sharing) or [Baidu Yunpan (password: f003)](https://pan.baidu.com/s/1G9EbLKUgF1tcOPCeWSEeMw ). 
 
 If the dataset helpes you, please cite the repository in your article:
-
-`
-@Article{wang2021ppe,
-AUTHOR = {Wang, Zijian and Wu, Yimin and Yang, Lichao and Thirunavukarasu, Arjun and Evison, Colin and Zhao, Yifan},
-TITLE = {Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches},
-JOURNAL = {Sensors},
-VOLUME = {21},
-YEAR = {2021},
-NUMBER = {10},
-ARTICLE-NUMBER = {3478},
-URL = {https://www.mdpi.com/1424-8220/21/10/3478},
-ISSN = {1424-8220},
-DOI = {10.3390/s21103478}
-}`
-
-Or
 	
 `Wang, Z.; Wu, Y.; Yang, L.; Thirunavukarasu, A.; Evison, C.; Zhao, Y. Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches. Sensors 2021, 21, 3478. https://doi.org/10.3390/s21103478`
 
 ## Results
 
 - **YOLO V7 owns the best mAP, 90.2%.**
-- For YOLO v3 models, different detection layers are tested, while the more layers cannot improve the performance. 
-- For YOLO v4 models,  the increase of training image size cannot contribute to better performance. 
 
-<center><img src="figures/confusion_matrix.png.png" style="zoom:100%;"/> 
+<center><img src="figures/confusion_matrix.png" style="zoom:60%;"/> 
 
 <div align=center>Figure: Mean average precision.</div>
 
