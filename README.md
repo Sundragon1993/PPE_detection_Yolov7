@@ -22,6 +22,8 @@ Instead of just accepting exiting images, strict criteria are designed at the be
 
 The dataset is open for free use, please download at [Google Drive](https://drive.google.com/file/d/1fdGn67W0B7ShpBDbbQpUF0ScPQa4DR0a/view?usp=sharing) or [Baidu Yunpan (password: f003)](https://pan.baidu.com/s/1G9EbLKUgF1tcOPCeWSEeMw ). 
 
+The weight can be download here: [Google Drive](https://drive.google.com/file/d/1TyVWasHdNGGHy88pbI26nbawS2jA2Syc/view?usp=sharing)
+
 If the dataset helpes you, please cite the repository in your article:
 	
 `Wang, Z.; Wu, Y.; Yang, L.; Thirunavukarasu, A.; Evison, C.; Zhao, Y. Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches. Sensors 2021, 21, 3478. https://doi.org/10.3390/s21103478`
